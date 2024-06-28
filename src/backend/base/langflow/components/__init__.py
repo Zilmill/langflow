@@ -3,7 +3,6 @@ __all__ = [
     "chains",
     "documentloaders",
     "embeddings",
-    "experimental",
     "inputs",
     "memories",
     "outputs",
